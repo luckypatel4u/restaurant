@@ -1,0 +1,32 @@
+
+ @import url('https://fonts.googleapis.com/css2?family=Anton&family=Lobster&family=Merienda:wght@400;700&family=Quicksand:wght@700&display=swap');
+
+ .header{
+    justify-content: space-between;
+  }
+  .navbar-brand{
+    color: darkgoldenrod;
+    font-size: 2rem;
+  }
+  .navbar-nav{
+    padding-right: 2rem;
+  }
+  .nav-link{
+    font-size: 0.em;
+    margin-right: 3rem;
+    font-weight: 600;
+  }
+  .nav-link:hover{
+    color: darkgoldenrod;
+  }
+  .btn{
+    padding-right: 1rem;
+    border: 1px solid darkgoldenrod;
+  }
+  .btn:hover{
+    border: 1px solid darkgoldenrod;
+    background: darkgoldenrod;
+  }
+  .row1{
+    padding-top: 8rem;
+  }
